@@ -1,10 +1,10 @@
 import java.util.Scanner;
-class loop{
+class loop1{
 public static void main(String args[]){
         
-      int n = 20;
-       while(n<=30){
-         if(n%2==0){
+      int n = 60;
+       while(n<=90){
+         if(n%5==0){
           System.out.println(n);
          }
           n++;
